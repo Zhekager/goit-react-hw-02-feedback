@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React, { Component } from 'react';
 
 import Container from './components/Container';
 import FeedbackOptions from './components/FeedbackOptions';
